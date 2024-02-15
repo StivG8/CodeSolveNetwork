@@ -1,0 +1,12 @@
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Logger\bin\Debug\net8.0\CodeSolveNetwork.Services.Logger.deps.json
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Logger\bin\Debug\net8.0\CodeSolveNetwork.Services.Logger.dll
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Logger\bin\Debug\net8.0\CodeSolveNetwork.Services.Logger.pdb
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Logger\obj\Debug\net8.0\CodeSolveNetwork.Services.Logger.csproj.AssemblyReference.cache
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Logger\obj\Debug\net8.0\CodeSolveNetwork.Services.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Logger\obj\Debug\net8.0\CodeSolveNetwork.Services.Logger.AssemblyInfoInputs.cache
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Logger\obj\Debug\net8.0\CodeSolveNetwork.Services.Logger.AssemblyInfo.cs
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Logger\obj\Debug\net8.0\CodeSolveNetwork.Services.Logger.csproj.CoreCompileInputs.cache
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Logger\obj\Debug\net8.0\CodeSolveNetwork.Services.Logger.dll
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Logger\obj\Debug\net8.0\refint\CodeSolveNetwork.Services.Logger.dll
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Logger\obj\Debug\net8.0\CodeSolveNetwork.Services.Logger.pdb
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Logger\obj\Debug\net8.0\ref\CodeSolveNetwork.Services.Logger.dll

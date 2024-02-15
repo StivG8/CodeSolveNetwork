@@ -1,0 +1,15 @@
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\bin\Debug\net8.0\CodeSolveNetwork.Services.Settings.deps.json
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\bin\Debug\net8.0\CodeSolveNetwork.Services.Settings.dll
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\bin\Debug\net8.0\CodeSolveNetwork.Services.Settings.pdb
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\bin\Debug\net8.0\CodeSolveNetwork.Common.dll
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\bin\Debug\net8.0\CodeSolveNetwork.Common.pdb
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\obj\Debug\net8.0\CodeSolveNetwork.Services.Settings.csproj.AssemblyReference.cache
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\obj\Debug\net8.0\CodeSolveNetwork.Services.Settings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\obj\Debug\net8.0\CodeSolveNetwork.Services.Settings.AssemblyInfoInputs.cache
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\obj\Debug\net8.0\CodeSolveNetwork.Services.Settings.AssemblyInfo.cs
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\obj\Debug\net8.0\CodeSolveNetwork.Services.Settings.csproj.CoreCompileInputs.cache
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\obj\Debug\net8.0\CodeSolveNetwork.Services.Settings.csproj.CopyComplete
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\obj\Debug\net8.0\CodeSolveNetwork.Services.Settings.dll
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\obj\Debug\net8.0\refint\CodeSolveNetwork.Services.Settings.dll
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\obj\Debug\net8.0\CodeSolveNetwork.Services.Settings.pdb
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Services\CodeSolveNetwork.Services.Settings\obj\Debug\net8.0\ref\CodeSolveNetwork.Services.Settings.dll

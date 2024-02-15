@@ -1,0 +1,12 @@
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Shared\CodeSolveNetwork.Common\bin\Debug\net8.0\CodeSolveNetwork.Common.deps.json
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Shared\CodeSolveNetwork.Common\bin\Debug\net8.0\CodeSolveNetwork.Common.dll
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Shared\CodeSolveNetwork.Common\bin\Debug\net8.0\CodeSolveNetwork.Common.pdb
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Shared\CodeSolveNetwork.Common\obj\Debug\net8.0\CodeSolveNetwork.Common.csproj.AssemblyReference.cache
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Shared\CodeSolveNetwork.Common\obj\Debug\net8.0\CodeSolveNetwork.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Shared\CodeSolveNetwork.Common\obj\Debug\net8.0\CodeSolveNetwork.Common.AssemblyInfoInputs.cache
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Shared\CodeSolveNetwork.Common\obj\Debug\net8.0\CodeSolveNetwork.Common.AssemblyInfo.cs
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Shared\CodeSolveNetwork.Common\obj\Debug\net8.0\CodeSolveNetwork.Common.csproj.CoreCompileInputs.cache
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Shared\CodeSolveNetwork.Common\obj\Debug\net8.0\CodeSolveNetwork.Common.dll
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Shared\CodeSolveNetwork.Common\obj\Debug\net8.0\refint\CodeSolveNetwork.Common.dll
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Shared\CodeSolveNetwork.Common\obj\Debug\net8.0\CodeSolveNetwork.Common.pdb
+C:\Users\AXROR\Desktop\DSR\Projects\CodeSolveNetwork\Shared\CodeSolveNetwork.Common\obj\Debug\net8.0\ref\CodeSolveNetwork.Common.dll
